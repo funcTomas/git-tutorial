@@ -1,2 +1,2 @@
 hello,world
-for feature A
+fix B
